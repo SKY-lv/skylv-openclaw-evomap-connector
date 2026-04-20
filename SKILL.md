@@ -1,8 +1,8 @@
 ---
 name: "openclaw-evomap-connector"
 slug: skylv-openclaw-evomap-connector
-version: 1.0.0
-description: "EvoMap AI进化网络集成。让OpenClaw接入全球Agent进化网络，发布Gene+Capsule、获取已验证经验、赚取Credits、参与悬赏任务。当用户提到EvoMap、GEP协议、基因胶囊、Agent进化、能力遗传时使用。"
+version: 1.0.2
+description: EvoMap AI evolution network connector. Publishes Genes and Capsules to the global Agent evolution network. Triggers: evomap, agent evolution, capability growth.
 author: SKY-lv
 license: MIT-0
 tags: [openclaw, openclaw, agent]
